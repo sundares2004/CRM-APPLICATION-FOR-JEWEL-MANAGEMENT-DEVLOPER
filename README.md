@@ -11,4 +11,4 @@ Team Member : V. Maha Vishnu
 Team Member : J. Kannan
 
 Demo Video Link :
-https://drive.google.com/file/d/1MHqETutuPJGk3PQqxQJEyZCcP6MRa3IR/view?usp=drivesdk
+https://drive.google.com/file/d/1MHqETutuPJGk3PQqxQJEyZCcP6MRa3lR/view?usp=drivesdk
